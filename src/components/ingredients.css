@@ -1,0 +1,23 @@
+.ingredients{
+    margin-top: 90px;
+}
+
+.ingredients ol li{
+    list-style: none;
+    font-weight: bold;
+}
+
+.ingredientsTitle{
+    font-family: 'Lobster';
+    color: #d84f57;
+    font-size: 50px;
+}
+
+.ingredientsLoop{
+   text-align: start;   
+}
+
+.wrap1{
+    display: flex;
+    justify-content: center;
+}

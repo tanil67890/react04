@@ -1,0 +1,10 @@
+.subHeading{
+    width: 60%;
+    transform: translateX(35%);
+}
+
+.subHeadingTxt h1{
+    font-family: 'Lobster';
+
+    color: rgb(45, 173, 45);
+}

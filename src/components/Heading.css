@@ -1,0 +1,14 @@
+.bodyImg img{
+  height: 50vh;
+  width: 100%;
+}
+
+.bodyContent{
+  margin-top: 50px;
+}
+
+.bodyHeading{
+  font-family: 'Lobster';
+  color: rgb(75, 72, 72);
+  font-size: 50px;
+}
